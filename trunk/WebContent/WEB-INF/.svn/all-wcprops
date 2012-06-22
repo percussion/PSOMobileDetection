@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF
+END
+detectconfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF/detectconfig.xml
+END
+device-detect-ctx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF/device-detect-ctx.xml
+END
+wurfl.zip
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF/wurfl.zip
+END
+web_browsers_patch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF/web_browsers_patch.xml
+END
+test.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF/test.html
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF/web.xml
+END
+wurfl-default-ctx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF/wurfl-default-ctx.xml
+END

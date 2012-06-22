@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN"
+"http://www.springframework.org/dtd/spring-beans.dtd">
+<beans>
+<bean id="mobileDetectFilter" class="com.percussion.pso.mobile.servlet.filters.MobileDetect">
+		<property name="deviceAction" ref="mainDeviceAction"/>
+</bean>
+	
+
+	<bean id="mainDeviceAction" class="com.percussion.pso.mobile.servlet.actions.ScriptDeviceAction">
+		<property name="name" value="mainAction"/>
+		<property name="script">
+			<value>
+				if (cap.brand_name=="internet explorer") {
+				"Touch";
+				} else {
+				"Feature";
+				}
+			</value>
+		</property>
+		<property name="actions">
+			<list>
+			    <ref bean="redirectTouchAction"/> 
+				<ref bean="redirectFeatureAction"/>
+				<ref bean="defaultDeviceAction"/>
+			</list>
+		</property>
+		<property name="defaultAction">
+			<ref bean="defaultDeviceAction"/>
+		</property>
+	</bean>
+	
+	 
+	<bean id="defaultDeviceAction" class="com.percussion.pso.mobile.servlet.actions.DefaultDeviceAction">
+		<property name="name" value="default"/>
+	</bean>
+	
+	<bean id="redirectTouchAction" class="com.percussion.pso.mobile.servlet.actions.RedirectDeviceAction">
+		<property name="name" value="Touch"/>
+		<property name="regex" value="^(.*/)"/>
+		<property name="replacement" value="http://m.aids.gov/Touch$1"/>
+	</bean>
+	
+	<bean id="redirectFeatureAction" class="com.percussion.pso.mobile.servlet.actions.RedirectDeviceAction">
+		<property name="name" value="Feature"/>
+		<property name="regex" value="^(.*/)"/>
+		<property name="replacement" value="http://m.aids.gov/Feature$1"/>
+	</bean>
+	
+	<!--  
+	<bean id="forwardDeviceAction" class="com.percussion.pso.mobile.servlet.actions.ForwardDeviceAction">
+		<property name="name" value="Theme1"/>
+		<property name="regex" value="^(.*/)"/>
+		<property name="replacement" value="/WEB-INF/Mobile/Theme1$1"/>
+	</bean>
+	-->
+	<bean id="forwardDeviceAction" class="com.percussion.pso.mobile.servlet.actions.ForwardDeviceAction">
+		<property name="name" value="forwardTest"/>
+		<property name="regex" value="^(.*/)"/>
+		<property name="replacement" value="/WEB-INF/Mobile/Theme2$1"/>
+	</bean>
+</beans>

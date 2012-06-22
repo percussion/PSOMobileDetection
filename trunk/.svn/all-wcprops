@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/build.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/.project
+END
+build.number
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/build.number
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/ivy.xml
+END
+ivysettings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/ivysettings.xml
+END
+PSOMobileDetection.zip
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/PSOMobileDetection.zip
+END
+ivy-local.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/ivy-local.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/log4j.properties
+END

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="/ivyrepo/ivy-doc.xsl"?>
+<ivy-module version="1.3">
+    <info 
+        organisation="percussion"
+        module="wurfl"
+        revision="1.0"
+        status="release" >
+    <description>This is the PSO Toolkit for use with Rhythmyx version 6.6 and later.
+    Copyright 2005-2008 Percussion Software, Inc. All rights reserved. </description>
+	</info>
+	<configurations>
+	   <conf name="master" visibility="public" description="provides standard JAR for use with Server" />
+	   <conf name="default" visibility="public" extends="master" />
+	   <conf name="test" extends="default" visibility="private" description="for test only" />
+	   <conf name="optional" extends="default" visibility="public" description="additional optional dependencies" />  
+	</configurations>
+	<publications>
+	  <!--   <artifact name="PSOToolkit" type="jar" conf="master" />-->
+	</publications>
+	<dependencies>
+	 <dependency org="commons-jexl" name="commons-jexl" rev="1.1" conf="default->default;optional->optional" />
+	
+	 <dependency org="net.sourceforge.wurfl" name="wurfl" rev="1.0.1" conf="default" />
+     <dependency org="log4j" name="log4j" rev="1.2.14" conf="default" />
+
+	</dependencies>
+</ivy-module>

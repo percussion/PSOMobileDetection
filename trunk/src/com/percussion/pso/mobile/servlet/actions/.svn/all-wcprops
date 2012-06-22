@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/src/com/percussion/pso/mobile/servlet/actions
+END
+RedirectDeviceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/src/com/percussion/pso/mobile/servlet/actions/RedirectDeviceAction.java
+END
+DefaultDeviceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/src/com/percussion/pso/mobile/servlet/actions/DefaultDeviceAction.java
+END
+ForwardDeviceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/src/com/percussion/pso/mobile/servlet/actions/ForwardDeviceAction.java
+END
+ScriptDeviceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/src/com/percussion/pso/mobile/servlet/actions/ScriptDeviceAction.java
+END

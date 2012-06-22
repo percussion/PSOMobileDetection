@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Jexl Script defining action based upon device detection</comment>
+<entry key="script"> 
+if (cap.brand_name=='internet explorer') {
+	action.forward('/index.html');
+} else {
+	action.redirect('http://www.firefox.com');
+}
+</entry>
+</properties>

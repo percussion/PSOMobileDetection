@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF/lib
+END
+backport-util-concurrent.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF/lib/backport-util-concurrent.jar
+END
+aopalliance.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF/lib/aopalliance.jar
+END
+commons-jexl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF/lib/commons-jexl.jar
+END
+spring-support.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF/lib/spring-support.jar
+END
+spring-web.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF/lib/spring-web.jar
+END
+log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF/lib/log4j.jar
+END
+ehcache.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF/lib/ehcache.jar
+END
+spring-context.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF/lib/spring-context.jar
+END
+commons-collections.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF/lib/commons-collections.jar
+END
+spring-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF/lib/spring-core.jar
+END
+spring-beans.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF/lib/spring-beans.jar
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF/lib/junit.jar
+END
+commons-lang.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF/lib/commons-lang.jar
+END
+wurfl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF/lib/wurfl.jar
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/psolib/!svn/ver/5021/PSOMobileDetection/trunk/WebContent/WEB-INF/lib/commons-logging.jar
+END
